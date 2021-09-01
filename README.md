@@ -1,4 +1,4 @@
-# flutter_expanse
+# Expanse App
 
 This is the simple application that keep the record of your epanses.
 
