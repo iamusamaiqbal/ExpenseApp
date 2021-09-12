@@ -1,6 +1,6 @@
 # Expanse App
 
-This is the simple application that keep the record of your epanses.
+This is a simple application that keeps a record of your expanses.
 
 # Screenshot
 
